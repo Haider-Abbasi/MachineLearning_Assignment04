@@ -1,4 +1,3 @@
-# MachineLearning_Assignment04
 Text Classification Model Evaluation
 This repository contains code for evaluating various classifiers on a text classification task using a provided dataset. The goal is to compare the performance of different machine learning algorithms in classifying text data into binary classes based on review scores.
 
